@@ -1,0 +1,55 @@
+
+
+/////////////////////////////////////////////1-savol/////////////////////////////////////////////////////////////////////////////
+
+📌 Material UI Menyu Tushuntirishi (Konispekt)
+🔹 1. Dashboard Layout (NEW)
+Bu menyu elementi asosiy boshqaruv paneli sahifasiga olib boradi.
+
+Yonida yashil badge (NEW) bor — bu element yangi qo‘shilganini bildiradi.
+
+NEW badge Material UI komponenti bo‘lgan Chip yordamida yaratilgan bo‘lishi mumkin (<Chip label="NEW" color="success" size="small" />).
+
+
+
+////////////////////////////////////////////////2-savol////////////////////////////////////////////////////////////////////////////////////////////////////
+
+🔹 2. Sign-in Page (NEW)
+Bu tizimga kirish (login) sahifasiga olib boradi.
+
+Bu ham NEW badge bilan belgilangani, bu sahifa ham yangi qo‘shilganini bildiradi.
+
+Styling va badge pozitsiyasi odatda Stack, Box yoki ListItem bilan boshqariladi.
+
+
+//////////////////////////////////////////3-savol/////////////////////////////////////////////////////////////////////////////////////////
+
+ 3. LAB bo‘limi
+Bu bo‘lim eksperimental yoki test sahifalarini o‘z ichiga oladi.
+
+Sarlavha kichik harflarda (LAB) yozilgan va ehtimol Typography komponentida variant="overline" yoki caption sifatida berilgan.
+
+////////////////////////////////////////4-savol//////////////////////////////////////////////////////////////////////////////////////
+
+ 4. About the lab ✏️
+Bu sahifa lab haqida ma’lumot beradi.
+
+Yonida ruchka (✏️) emojisi — bu sahifa tahrirlash yoki eksperimental maqsadda ekanligini anglatadi.
+
+Ko‘pincha bu kabi elementlar ListItem, ListItemText, va ListItemIcon yordamida quriladi.
+
+////////////////////////////////////////5-savol//////////////////////////////////////////////////////////////////////////////////////////
+
+5. Masonry
+Bu Masonry layout sahifasiga olib boradi.
+
+Masonry — bu rasmlar yoki kartalarni g‘isht tartibida (Pinterest uslubida) joylashtirish usuli.
+
+MUI’da @mui/lab ichida Masonry komponenti mavjud bo‘lib, bu tartibni yaratish uchun ishlatiladi.
+
+///////////////////////////////////////6-savol///////////////////////////////////////////////////////////////////////////////////////////////////
+
+6. Timeline
+Bu voqealar yoki jarayonlar ketma-ketligini ko‘rsatadigan sahifa.
+
+Material UI Timeline komponenti yordamida vaqt bo‘yicha ro‘yhat tuziladi (odatda @mui/lab tarkibida bo‘ladi).
